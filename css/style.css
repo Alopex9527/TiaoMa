@@ -1,0 +1,63 @@
+#container {
+	width: 1080px;
+	height: 905px;
+	margin: 0px auto;
+	border: 1px solid blue;
+}
+
+#control {
+	width: 240px;
+	height: 150px;
+	border: 1px solid blue;
+	float: right;
+	margin-top: 27%;
+	margin-right: 1.5%;
+}
+
+#btn {
+	height: 60px;
+	width: 250px;
+	margin: 0px auto;
+}
+
+button {
+	height: 40px;
+	width: 80px;
+	background: orange;
+	border: 0px;
+	margin: 10px 0px;
+	margin-left: 25px;
+	font-size: 16px;
+	font-family: "微软雅黑";
+	color: brown;
+}
+
+button:hover {
+	background: orangered;
+}
+
+p {
+	text-align: center;
+}
+
+a {
+	text-decoration: none;
+}
+
+#info {
+	position: relative;
+	width: 240px;
+	height: 190px;
+	border: 1px solid blue;
+	float: right;
+	margin-top: 50%;
+	margin-left: 90%;
+	/*margin-right: 1.5%;*/
+}
+
+#beian{
+	margin-top: 100%;
+}
+#beian a {
+	color: blue;
+}
